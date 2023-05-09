@@ -1,4 +1,4 @@
-<h1 align="center">Hello world👋 I am, I'm Mohammad Kaif</h1>
+<h1 align="center">Hello world👋 I'm Mohammad Kaif</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
